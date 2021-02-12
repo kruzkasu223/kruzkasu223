@@ -1,4 +1,6 @@
-<h1 align="center">Hey There 👋, I'm Krushang Kasundra <small>aka</small> Kru'Z</h1>
+<img src="https://raw.githubusercontent.com/kruzkasu223/kruzkasu223/main/me.jpg"/>
+
+<h1 align="center">Hey There 👋, I'm Krushang Kasundra <small style="font-wight:normal;">aka</small> Kru'Z</h1>
 <h3 align="center">An Engineer(Computer Obviously) and self taught Full-Stack Web Developer.</h3>
 <br/>
 <p align="center"> <a href="https://twitter.com/kruzkasu223" target="blank"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/kruzkasu223?color=%231DA1F2&label=Follow%20%40kruzkasu223&logo=twitter&style=flat-square"></a> 
