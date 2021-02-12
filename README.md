@@ -1,5 +1,5 @@
 <h1 align="center">Hey There 👋, I'm Krushang Kasundra <small>aka</small> Kru'Z</h1>
-<h3 align="center">An Engineer(Computer Obviosly) and self taught Full-Stack Web Developer.</h3>
+<h3 align="center">An Engineer(Computer Obviously) and self taught Full-Stack Web Developer.</h3>
 <br/>
 <p align="center"> <a href="https://twitter.com/kruzkasu223" target="blank"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/kruzkasu223?color=%231DA1F2&label=Follow%20%40kruzkasu223&logo=twitter&style=flat-square"></a> 
 <img src="https://komarev.com/ghpvc/?username=kruzkasu223&label=Profile%20views&color=e0245e&style=flat-square" alt="kruzkasu223" /></p>
@@ -19,7 +19,7 @@
 
 -   📫 You can reach me on [Linkedin](https://linkedin.com/in/kruzkasu223) OR [Twitter](https://twitter.com/kruzkasu223)
 
--   📄 Know about my experiences at [Linkedin](https://linkedin.com/in/kruzkasu223)
+-   📄 Know about my experiences on [Linkedin](https://linkedin.com/in/kruzkasu223)
 
 -   ⚡ Fun Fact **that I don't know any Fun Fact about myself😅**
 
@@ -108,11 +108,11 @@
 
 &nbsp;
 
-<p><img align="center" src="https://github-profile-trophy.vercel.app/?username=kruzkasu223&column=3&margin-w=6&margin-h=6&no-frame=true&theme=dracula" alt="kruzkasu223" /></p>
+<p align="center"><img align="center" src="https://github-profile-trophy.vercel.app/?username=kruzkasu223&column=3&margin-w=6&margin-h=6&no-frame=true&theme=dracula" alt="kruzkasu223" /></p>
 
 &nbsp;
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kruzkasu223&layout=compact&langs_count=10&theme=synthwave&title_color=ff6696&text_color=ff4d85&hide_border=true" alt="kruzkasu223" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kruzkasu223&layout=compact&langs_count=10&theme=synthwave&title_color=ff6696&text_color=ff4d85&hide_border=true" alt="kruzkasu223" /></p>
 
 &nbsp;
 
