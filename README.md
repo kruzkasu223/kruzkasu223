@@ -112,12 +112,12 @@
 
 &nbsp;
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kruzkasu223&layout=compact&langs_count=10&theme=synthwave&title_color=ff6696&text_color=ff4d85&hide_border=true" alt="kruzkasu223" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kruzkasu223&layout=compact&langs_count=10&theme=synthwave&title_color=ff6696&text_color=ff4d85&hide_border=true" alt="kruzkasu223" /></p>
 
 &nbsp;
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=kruzkasu223&show_icons=true&count_private=true&show_icons=true&theme=synthwave&title_color=ff6696&text_color=ff4d85&icon_color=ff6696&hide_border=true" alt="kruzkasu223" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=kruzkasu223&show_icons=true&count_private=true&show_icons=true&theme=synthwave&title_color=ff6696&text_color=ff4d85&icon_color=ff6696&hide_border=true" alt="kruzkasu223" /></p>
 
 &nbsp;
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kruzkasu223&theme=synthwave&hide_border=true&ring=ff6696&fire=ff4d85&stroke=ff6696&currStreakNum=ff2469&dates=ff6696&currStreakLabel=ff4d85&sideNums=ff4d85&sideLabels=ff6696" alt="kruzkasu223" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kruzkasu223&theme=synthwave&hide_border=true&ring=ff6696&fire=ff4d85&stroke=ff6696&currStreakNum=ff2469&dates=ff6696&currStreakLabel=ff4d85&sideNums=ff4d85&sideLabels=ff6696" alt="kruzkasu223" /></p>
