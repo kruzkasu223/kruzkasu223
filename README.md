@@ -1,6 +1,9 @@
 <h1 align="center">Hey There 👋, I'm Krushang Kasundra <small>aka</small> Kru'Z</h1>
 <h3 align="center">An Engineer(Computer Obviosly) and self taught Full-Stack Web Developer.</h3>
 <br/>
+<p align="center"> <a href="https://twitter.com/kruzkasu223" target="blank"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/kruzkasu223?color=%231DA1F2&label=Follow%20%40kruzkasu223&logo=twitter&style=flat-square"></a> 
+<img src="https://komarev.com/ghpvc/?username=kruzkasu223&label=Profile%20views&color=e0245e&style=flat-square" alt="kruzkasu223" /></p>
+<br/>
 
 ---
 
@@ -28,22 +31,80 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/kruzkasu223" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="kruzkasu223" height="30" width="40" /></a>
-<a href="https://dev.to/kruzkasu223" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="kruzkasu223" height="30" width="40" /></a>
-<a href="https://github.com/kruzkasu223" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="kruzkasu223" height="30" width="40" /></a>
-<a href="https://twitter.com/kruzkasu223" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="kruzkasu223" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/kruzkasu223" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="kruzkasu223" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/kruzkasu223" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="kruzkasu223" height="30" width="40" /></a>
+<a href="https://codepen.io/kruzkasu223" target="blank"><img alt="Dev.to blog" src="https://img.shields.io/badge/codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" ></a>
+<a href="https://github.com/kruzkasu223" target="blank"><img alt="GitHub" src="https://img.shields.io/badge/github-181717.svg?&style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://twitter.com/kruzkasu223" target="blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-1DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/></a>
+<a href="https://linkedin.com/in/kruzkasu223" target="blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://stackoverflow.com/users/kruzkasu223" target="blank"><img alt="Stack Overflow" src="https://img.shields.io/badge/stack%20overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/></a>
 </p>
-
----
-
-<p align="left"> <a href="https://twitter.com/kruzkasu223" target="blank"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/kruzkasu223?color=%231DA1F2&label=Follow%20%40kruzkasu223&logo=twitter&style=flat-square"></a> </p>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kruzkasu223&label=Profile%20views&color=e0245e&style=flat-square" alt="kruzkasu223" /> </p>
-
 <br/>
 
 ---
 
 <br/>
+<!--
+
+langs:
+english
+guj
+hin
+
+pro langs:
+py
+js
+ts
+java
+c
+html
+css
+sass
+bash
+php
+sql
+
+--
+frameworks or libs:
+react
+django
+parcel
+babel
+webpack
+redux
+vue
+bootstrap
+tailwind
+materialize
+framer motion
+
+--
+tools or services:
+aws
+gcp
+azure
+heroku
+linux
+git
+nginx
+apche
+postgres
+mysql
+mongodb
+
+-->
+
+<h3 align="left">Languages:</h3>
+<p align="left">
+
+</p>
+<h3 align="left">Programming Languages:</h3>
+<p align="left">
+
+</p>
+<h3 align="left">Frameworks and Libraries:</h3>
+<p align="left">
+
+</p>
+<h3 align="left">Tools and Services:</h3>
+<p align="left">
+
+</p>
