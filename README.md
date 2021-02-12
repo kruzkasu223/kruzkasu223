@@ -102,3 +102,22 @@
 <img alt="Figma" src="https://img.shields.io/badge/figma%20-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white"/>
 <img alt="Blender" src="https://img.shields.io/badge/blender%20-%23F5792A.svg?&style=for-the-badge&logo=blender&logoColor=white"/>
 </p>
+<br/>
+
+---
+
+&nbsp;
+
+<p><img align="center" src="https://github-profile-trophy.vercel.app/?username=kruzkasu223&column=3&margin-w=6&margin-h=6&no-frame=true&theme=dracula" alt="kruzkasu223" /></p>
+
+&nbsp;
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kruzkasu223&layout=compact&langs_count=10&theme=synthwave&title_color=ff6696&text_color=ff4d85&hide_border=true" alt="kruzkasu223" /></p>
+
+&nbsp;
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=kruzkasu223&show_icons=true&count_private=true&show_icons=true&theme=synthwave&title_color=ff6696&text_color=ff4d85&icon_color=ff6696&hide_border=true" alt="kruzkasu223" /></p>
+
+&nbsp;
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kruzkasu223&theme=synthwave&hide_border=true&ring=ff6696&fire=ff4d85&stroke=ff6696&currStreakNum=ff2469&dates=ff6696&currStreakLabel=ff4d85&sideNums=ff4d85&sideLabels=ff6696" alt="kruzkasu223" /></p>
