@@ -13,13 +13,13 @@
 
 -   🌱 I’m currently learning **Everything😊, but particularly ReactJS and TypeScript**
 
--   👨‍💻 Some of my projects are available at [https://p1.thekruz.tech/#portfolio](https://p1.thekruz.tech/#portfolio)
+-   👨‍💻 Some of my projects are available at [P1.TheKruZ.Tech](https://p1.thekruz.tech/#portfolio) OR [GitHub Repositories](https://github.com/kruzkasu223?tab=repositories)
 
 -   💬 Ask me about **Django, CSS and ReactJS**
 
--   📫 How to reach me [https://linkedin.com/in/kruzkasu223](https://linkedin.com/in/kruzkasu223) OR [https://twitter.com/kruzkasu223](https://twitter.com/kruzkasu223)
+-   📫 You can reach me on [Linkedin](https://linkedin.com/in/kruzkasu223) OR [Twitter](https://twitter.com/kruzkasu223)
 
--   📄 Know about my experiences [https://linkedin.com/in/kruzkasu223](https://linkedin.com/in/kruzkasu223)
+-   📄 Know about my experiences at [Linkedin](https://linkedin.com/in/kruzkasu223)
 
 -   ⚡ Fun Fact **that I don't know any Fun Fact about myself😅**
 
@@ -42,69 +42,63 @@
 ---
 
 <br/>
-<!--
-
-langs:
-english
-guj
-hin
-
-pro langs:
-py
-js
-ts
-java
-c
-html
-css
-sass
-bash
-php
-sql
-
---
-frameworks or libs:
-react
-django
-parcel
-babel
-webpack
-redux
-vue
-bootstrap
-tailwind
-materialize
-framer motion
-
---
-tools or services:
-aws
-gcp
-azure
-heroku
-linux
-git
-nginx
-apche
-postgres
-mysql
-mongodb
-
--->
 
 <h3 align="left">Languages:</h3>
 <p align="left">
-
+<img src="https://img.shields.io/badge/Gujarati-cc2157?style=for-the-badge" alt="Gujarati"/>
+<img src="https://img.shields.io/badge/English-ff296d?style=for-the-badge" alt="English"/>
+<img src="https://img.shields.io/badge/Hindi-d9235d?style=for-the-badge" alt="Hindi"/>
 </p>
+
 <h3 align="left">Programming Languages:</h3>
 <p align="left">
-
+<img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
+<img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+<img alt="TypeScript" src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
+<img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
+<img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
+<img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
+<img alt="C" src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/>
+<img alt="Markdown" src="https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white"/>
+<img alt="Shell Script" src="https://img.shields.io/badge/shell_script%20-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+<img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white"/>
 </p>
+
 <h3 align="left">Frameworks and Libraries:</h3>
 <p align="left">
+<img alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+<img alt="Django" src="https://img.shields.io/badge/django%20-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=white"/>
+<img alt="jQuery" src="https://img.shields.io/badge/jquery%20-%230769AD.svg?&style=for-the-badge&logo=jquery&logoColor=white"/>
+<img alt="Vue.js" src="https://img.shields.io/badge/vuejs%20-%2335495e.svg?&style=for-the-badge&logo=vue.js&logoColor=%234FC08D"/>
+<img alt="TailwindCSS" src="https://img.shields.io/badge/tailwindcss%20-%2338B2AC.svg?&style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+<img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/>
+<img alt="Redux" src="https://img.shields.io/badge/redux%20-%23593d88.svg?&style=for-the-badge&logo=redux&logoColor=white"/>
+<img alt="SASS" src="https://img.shields.io/badge/SASS%20-hotpink.svg?&style=for-the-badge&logo=SASS&logoColor=white"/>
+<img alt="SASS" src="https://img.shields.io/badge/framer%20motion%20-ee0099.svg?&style=for-the-badge&logo=framer&logoColor=white"/>
+<img alt="Parcel" src="https://img.shields.io/badge/parcel%20-%2321374b.svg?&style=for-the-badge&logo=dropbox&logoColor=white" />
+<img alt="Babel" src="https://img.shields.io/badge/babel%20-%23F9DC3E.svg?&style=for-the-badge&logo=babel&logoColor=black" />
+<img alt="Webpack" src="https://img.shields.io/badge/webpack%20-%238DD6F9.svg?&style=for-the-badge&logo=webpack&logoColor=black" />
 
 </p>
-<h3 align="left">Tools and Services:</h3>
-<p align="left">
 
+<h3 align="left">Tools, Services and Others:</h3>
+<p align="left">
+<img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
+<img alt="Linux" src="https://img.shields.io/badge/linux%20-%23FCC624.svg?&style=for-the-badge&logo=linux&logoColor=black"/>
+<img alt="VS Code" src="https://img.shields.io/badge/vs%20code%20-%23007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+<img alt="AWS" src="https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+<img alt="Google Cloud" src="https://img.shields.io/badge/Google%20Cloud%20-%234285F4.svg?&style=for-the-badge&logo=google-cloud&logoColor=white"/>
+<img alt="Azure" src="https://img.shields.io/badge/azure%20-%230089D6.svg?&style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
+<img alt="Heroku" src="https://img.shields.io/badge/heroku%20-%23430098.svg?&style=for-the-badge&logo=heroku&logoColor=white"/>
+<img alt="DigitalOcean" src="https://img.shields.io/badge/Digital%20Ocean-%230167ff.svg?&style=for-the-badge&logo=digitalOcean&logoColor=white"/>
+<img alt="Apache" src="https://img.shields.io/badge/apache%20-%23D42029.svg?&style=for-the-badge&logo=apache&logoColor=white"/>
+<img alt="Nginx" src="https://img.shields.io/badge/nginx%20-%23009639.svg?&style=for-the-badge&logo=nginx&logoColor=white"/>
+<img alt="Postgres" src ="https://img.shields.io/badge/postgresql-%23336791.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img alt="MySQL" src="https://img.shields.io/badge/mysql-%234479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
+<img alt="SQLite" src ="https://img.shields.io/badge/sqlite-%23003B57.svg?&style=for-the-badge&logo=sqlite&logoColor=white"/>
+<img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%2347A248.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img alt="GitHub Actions" src="https://img.shields.io/badge/github%20actions%20-%232671E5.svg?&style=for-the-badge&logo=github%20actions&logoColor=white"/>
+<img alt="Adobe" src="https://img.shields.io/badge/adobe%20-%23FF0000.svg?&style=for-the-badge&logo=adobe&logoColor=white"/>
+<img alt="Figma" src="https://img.shields.io/badge/figma%20-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white"/>
+<img alt="Blender" src="https://img.shields.io/badge/blender%20-%23F5792A.svg?&style=for-the-badge&logo=blender&logoColor=white"/>
 </p>
