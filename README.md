@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/kruzkasu223/kruzkasu223/main/me.jpg"/>
 
 <h1 align="center">Hey There 👋, I'm Krushang Kasundra aka Kru'Z</h1>
-<h3 align="center">An Engineer(Computer Obviously) and self taught Full-Stack Web Developer.</h3>
+<h3 align="center">An Engineer(Computer Obviously) and self taught Full-Stack Web Developer with Django and ReactJS, and Learning...</h3>
 <br/>
 <p align="center"> <a href="https://twitter.com/kruzkasu223" target="blank"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/kruzkasu223?color=%231DA1F2&label=Follow%20%40kruzkasu223&logo=twitter&style=flat-square"></a> 
 <img src="https://komarev.com/ghpvc/?username=kruzkasu223&label=Profile%20views&color=e0245e&style=flat-square" alt="kruzkasu223" /></p>
