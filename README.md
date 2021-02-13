@@ -57,8 +57,8 @@
 <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
 <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 <img alt="TypeScript" src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
-<img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
-<img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
+<img alt="HTML" src="https://img.shields.io/badge/html%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
+<img alt="CSS" src="https://img.shields.io/badge/css%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
 <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
 <img alt="C" src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/>
 <img alt="Markdown" src="https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white"/>
@@ -68,7 +68,7 @@
 
 <h3 align="left">Frameworks and Libraries:</h3>
 <p align="left">
-<img alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+<img alt="React" src="https://img.shields.io/badge/reactjs%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
 <img alt="Django" src="https://img.shields.io/badge/django%20-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=white"/>
 <img alt="jQuery" src="https://img.shields.io/badge/jquery%20-%230769AD.svg?&style=for-the-badge&logo=jquery&logoColor=white"/>
 <img alt="Vue.js" src="https://img.shields.io/badge/vuejs%20-%2335495e.svg?&style=for-the-badge&logo=vue.js&logoColor=%234FC08D"/>
@@ -123,3 +123,16 @@
 &nbsp;
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kruzkasu223&theme=synthwave&hide_border=true&ring=ff6696&fire=ff4d85&stroke=ff6696&currStreakNum=ff2469&dates=ff6696&currStreakLabel=ff4d85&sideNums=ff4d85&sideLabels=ff6696" alt="kruzkasu223" /></p>
+
+<!--
+credits:
+https://simpleicons.org
+https://Shields.io
+https://github.com/anuraghazra/github-readme-stats
+https://github.com/Ileriayo/markdown-badges
+https://github.com/rahuldkjain/github-profile-readme-generator
+https://github.com/DenverCoder1/github-readme-streak-stats
+https://github.com/ryo-ma/github-profile-trophy
+https://github.com/antonkomarev/github-profile-views-counter
+https://www.youtube.com/watch?v=n6d4KHSKqGk
+-->
