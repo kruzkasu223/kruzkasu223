@@ -37,7 +37,6 @@
 <a href="https://github.com/kruzkasu223" target="blank"><img alt="GitHub" src="https://img.shields.io/badge/github-181717.svg?&style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="https://twitter.com/kruzkasu223" target="blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-1DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/></a>
 <a href="https://linkedin.com/in/kruzkasu223" target="blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://stackoverflow.com/users/kruzkasu223" target="blank"><img alt="Stack Overflow" src="https://img.shields.io/badge/stack%20overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/></a>
 </p>
 <br/>
 
@@ -47,9 +46,9 @@
 
 <h3 align="left">Languages:</h3>
 <p align="left">
-<img src="https://img.shields.io/badge/Gujarati-cc2157?style=for-the-badge" alt="Gujarati"/>
-<img src="https://img.shields.io/badge/English-ff296d?style=for-the-badge" alt="English"/>
-<img src="https://img.shields.io/badge/Hindi-d9235d?style=for-the-badge" alt="Hindi"/>
+<img src="https://img.shields.io/badge/Gujarati-e02463?style=for-the-badge" alt="Gujarati"/>
+<img src="https://img.shields.io/badge/English-e02463?style=for-the-badge" alt="English"/>
+<img src="https://img.shields.io/badge/Hindi-e02463?style=for-the-badge" alt="Hindi"/>
 </p>
 
 <h3 align="left">Programming Languages:</h3>
@@ -100,7 +99,7 @@
 <img alt="SQLite" src ="https://img.shields.io/badge/sqlite-%23003B57.svg?&style=for-the-badge&logo=sqlite&logoColor=white"/>
 <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%2347A248.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
 <img alt="GitHub Actions" src="https://img.shields.io/badge/github%20actions%20-%232671E5.svg?&style=for-the-badge&logo=github%20actions&logoColor=white"/>
-<img alt="Adobe" src="https://img.shields.io/badge/adobe%20-%23FF0000.svg?&style=for-the-badge&logo=adobe&logoColor=white"/>
+<img alt="Adobe" src="https://img.shields.io/badge/adobe%20suite-%23FF0000.svg?&style=for-the-badge&logo=adobe&logoColor=white"/>
 <img alt="Figma" src="https://img.shields.io/badge/figma%20-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white"/>
 <img alt="Blender" src="https://img.shields.io/badge/blender%20-%23F5792A.svg?&style=for-the-badge&logo=blender&logoColor=white"/>
 </p>
