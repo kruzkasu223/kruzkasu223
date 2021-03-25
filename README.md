@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/kruzkasu223/kruzkasu223/main/me.jpg"/>
 
 <h1 align="center">Hey There 👋, I'm Krushang Kasundra aka Kru'Z</h1>
-<h3 align="center">An Engineer(Computer Obviously) and self taught Full-Stack Web Developer with Django and ReactJS, and Learning...</h3>
+<h3 align="center">A Computer Engineer, Full-Stack Web Developer, and Learning...</h3>
 <br/>
 <p align="center"> <a href="https://twitter.com/kruzkasu223" target="blank"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/kruzkasu223?color=%231DA1F2&label=Follow%20%40kruzkasu223&logo=twitter&style=flat-square"></a> 
 <img src="https://komarev.com/ghpvc/?username=kruzkasu223&label=Profile%20views&color=e0245e&style=flat-square" alt="kruzkasu223" /></p>
@@ -11,13 +11,13 @@
 
 <br/>
 
--   🔭 I’m currently working on [Personal Portfolio Website](https://thekruz.tech)
+-   🔭 I’m currently working on [Personal Portfolio Website](https://thekruz.tech) and [Ignite Gamer](https://ignite.thekruz.tech) - [Code Repo](https://github.com/kruzkasu223/ignite-gamer) (You're very welcome to contribute.)
 
--   🌱 I’m currently learning **Everything😊, but particularly ReactJS and TypeScript**
+-   🌱 I’m currently learning **Everything😊, but particularly NextJS and DRF**
 
--   👨‍💻 Some of my projects are available at [P1.TheKruZ.Tech](https://p1.thekruz.tech/#portfolio) OR [GitHub Repositories](https://github.com/kruzkasu223?tab=repositories)
+-   👨‍💻 Some of my projects are available at [TheKruZ.Tech](https://thekruz.tech/) OR [GitHub Repositories](https://github.com/kruzkasu223?tab=repositories)
 
--   💬 Ask me about **Django, CSS and ReactJS**
+-   💬 Ask me about **Django, ReactJS and NextJS**
 
 -   📫 You can reach me on [Linkedin](https://linkedin.com/in/kruzkasu223) OR [Twitter](https://twitter.com/kruzkasu223)
 
@@ -67,10 +67,12 @@
 
 <h3 align="left">Frameworks and Libraries:</h3>
 <p align="left">
-<img alt="React" src="https://img.shields.io/badge/reactjs%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-<img alt="Django" src="https://img.shields.io/badge/django%20-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=white"/>
+<img alt="ReactJS" src="https://img.shields.io/badge/reactjs%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+<img alt="Django" src="https://img.shields.io/badge/django%20-%230C4B33.svg?&style=for-the-badge&logo=django&logoColor=white"/>
+<img alt="NextJS" src="https://img.shields.io/badge/nextjs%20-%23000000.svg?&style=for-the-badge&logo=next.js&logoColor=white"/>
 <img alt="jQuery" src="https://img.shields.io/badge/jquery%20-%230769AD.svg?&style=for-the-badge&logo=jquery&logoColor=white"/>
 <img alt="Vue.js" src="https://img.shields.io/badge/vuejs%20-%2335495e.svg?&style=for-the-badge&logo=vue.js&logoColor=%234FC08D"/>
+<img alt="Flask" src="https://img.shields.io/badge/flask%20-%23000.svg?&style=for-the-badge&logo=flask&logoColor=white"/>
 <img alt="TailwindCSS" src="https://img.shields.io/badge/tailwindcss%20-%2338B2AC.svg?&style=for-the-badge&logo=tailwind-css&logoColor=white"/>
 <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/>
 <img alt="Redux" src="https://img.shields.io/badge/redux%20-%23593d88.svg?&style=for-the-badge&logo=redux&logoColor=white"/>
@@ -87,13 +89,14 @@
 <img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
 <img alt="Linux" src="https://img.shields.io/badge/linux%20-%23FCC624.svg?&style=for-the-badge&logo=linux&logoColor=black"/>
 <img alt="VS Code" src="https://img.shields.io/badge/vs%20code%20-%23007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+<img alt="Netlify" src="https://img.shields.io/badge/netlify-%230E1E25.svg?&style=for-the-badge&logo=netlify&logoColor=00C7B7"/>
 <img alt="AWS" src="https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white"/>
 <img alt="Google Cloud" src="https://img.shields.io/badge/Google%20Cloud%20-%234285F4.svg?&style=for-the-badge&logo=google-cloud&logoColor=white"/>
 <img alt="Azure" src="https://img.shields.io/badge/azure%20-%230089D6.svg?&style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
 <img alt="Heroku" src="https://img.shields.io/badge/heroku%20-%23430098.svg?&style=for-the-badge&logo=heroku&logoColor=white"/>
 <img alt="DigitalOcean" src="https://img.shields.io/badge/Digital%20Ocean-%230167ff.svg?&style=for-the-badge&logo=digitalOcean&logoColor=white"/>
-<img alt="Apache" src="https://img.shields.io/badge/apache%20-%23D42029.svg?&style=for-the-badge&logo=apache&logoColor=white"/>
 <img alt="Nginx" src="https://img.shields.io/badge/nginx%20-%23009639.svg?&style=for-the-badge&logo=nginx&logoColor=white"/>
+<img alt="Apache" src="https://img.shields.io/badge/apache%20-%23D42029.svg?&style=for-the-badge&logo=apache&logoColor=white"/>
 <img alt="Postgres" src ="https://img.shields.io/badge/postgresql-%23336791.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/>
 <img alt="MySQL" src="https://img.shields.io/badge/mysql-%234479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
 <img alt="SQLite" src ="https://img.shields.io/badge/sqlite-%23003B57.svg?&style=for-the-badge&logo=sqlite&logoColor=white"/>
