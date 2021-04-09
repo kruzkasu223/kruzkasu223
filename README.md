@@ -11,7 +11,7 @@
 
 <br/>
 
--   🔭 I’m currently working on [Personal Portfolio Website](https://thekruz.tech) and [Ignite Gamer](https://ignite.thekruz.tech) - [Code Repo](https://github.com/kruzkasu223/ignite-gamer) (You're very welcome to contribute.)
+-   🔭 I’m currently working on [Personal Portfolio Website](https://thekruz.tech)
 
 -   🌱 I’m currently learning **Everything😊, but particularly NextJS and DRF**
 
