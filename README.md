@@ -115,7 +115,7 @@
 
 &nbsp;
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kruzkasu223&theme=synthwave&hide_border=true&ring=ff6696&fire=ff4d85&stroke=ff6696&currStreakNum=ff2469&dates=ff6696&currStreakLabel=ff4d85&sideNums=ff4d85&sideLabels=ff6696" alt="kruzkasu223" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kruzkasu223&theme=synthwave&hide_border=true&ring=de3163&fire=de3163&stroke=de3163&currStreakNum=de3163&dates=de3163&currStreakLabel=de3163&sideNums=de3163&sideLabels=de3163" alt="kruzkasu223" /></p>
 
 <!--
 credits:
