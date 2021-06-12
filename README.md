@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/kruzkasu223/kruzkasu223/main/me.jpg"/>
 
 <h1 align="center">Hey There 👋, I'm Krushang Kasundra aka Kru'Z</h1>
-<h3 align="center">A Computer Engineer, Full-Stack Web Developer, and Learning...</h3>
+<h3 align="center">A Computer Engineer, Full-Stack Web Developer, and Learning More...</h3>
 <br/>
 <p align="center"> <a href="https://twitter.com/kruzkasu223" target="_blank"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/kruzkasu223?color=%231DA1F2&label=Follow%20%40kruzkasu223&logo=twitter&style=flat-square"></a> 
 <img src="https://komarev.com/ghpvc/?username=kruzkasu223&label=Profile%20views&color=e0245e&style=flat-square" alt="kruzkasu223" /></p>
@@ -13,11 +13,11 @@
 
 -   🔭 I’m currently working on [Personal Portfolio Website](https://thekruz.tech)
 
--   🌱 I’m currently learning **Everything😊, but particularly NextJS and DRF**
+-   🌱 I’m currently learning **Everything😊, but particularly NextJS**
 
 -   👨‍💻 Some of my projects are available at [TheKruZ.Tech](https://thekruz.tech/) OR [GitHub Repositories](https://github.com/kruzkasu223?tab=repositories)
 
--   💬 Ask me about **Django, ReactJS and NextJS**
+-   💬 Ask me about **ReactJS, NextJS and Django**
 
 -   📫 You can reach me on [Linkedin](https://linkedin.com/in/kruzkasu223) OR [Twitter](https://twitter.com/kruzkasu223)
 
@@ -60,7 +60,6 @@
 <img alt="CSS" src="https://img.shields.io/badge/css%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
 <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
 <img alt="C" src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/>
-<img alt="Shell Script" src="https://img.shields.io/badge/shell_script%20-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white"/>
 <img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white"/>
 </p>
 
@@ -76,7 +75,6 @@
 <img alt="SASS" src="https://img.shields.io/badge/SASS%20-hotpink.svg?&style=for-the-badge&logo=SASS&logoColor=white"/>
 <img alt="Framer Motion" src="https://img.shields.io/badge/framer%20motion%20-ee0099.svg?&style=for-the-badge&logo=framer&logoColor=white"/>
 <img alt="Parcel" src="https://img.shields.io/badge/parcel%20-%2321374b.svg?&style=for-the-badge&logo=dropbox&logoColor=white" />
-<img alt="Babel" src="https://img.shields.io/badge/babel%20-%23F9DC3E.svg?&style=for-the-badge&logo=babel&logoColor=black" />
 <img alt="Webpack" src="https://img.shields.io/badge/webpack%20-%238DD6F9.svg?&style=for-the-badge&logo=webpack&logoColor=black" />
 
 </p>
@@ -87,13 +85,11 @@
 <img alt="Linux" src="https://img.shields.io/badge/linux%20-%23FCC624.svg?&style=for-the-badge&logo=linux&logoColor=black"/>
 <img alt="VS Code" src="https://img.shields.io/badge/vs%20code%20-%23007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 <img alt="Netlify" src="https://img.shields.io/badge/netlify-%230E1E25.svg?&style=for-the-badge&logo=netlify&logoColor=00C7B7"/>
+<img alt="Firebase" src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase"/>
 <img alt="AWS" src="https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-<img alt="Heroku" src="https://img.shields.io/badge/heroku%20-%23430098.svg?&style=for-the-badge&logo=heroku&logoColor=white"/>
 <img alt="Nginx" src="https://img.shields.io/badge/nginx%20-%23009639.svg?&style=for-the-badge&logo=nginx&logoColor=white"/>
 <img alt="Apache" src="https://img.shields.io/badge/apache%20-%23D42029.svg?&style=for-the-badge&logo=apache&logoColor=white"/>
 <img alt="Postgres" src ="https://img.shields.io/badge/postgresql-%23336791.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img alt="MySQL" src="https://img.shields.io/badge/mysql-%234479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
-<img alt="SQLite" src ="https://img.shields.io/badge/sqlite-%23003B57.svg?&style=for-the-badge&logo=sqlite&logoColor=white"/>
 <img alt="Adobe" src="https://img.shields.io/badge/adobe%20suite-%23FF0000.svg?&style=for-the-badge&logo=adobe&logoColor=white"/>
 <img alt="Figma" src="https://img.shields.io/badge/figma%20-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white"/>
 </p>
