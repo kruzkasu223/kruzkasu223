@@ -13,7 +13,7 @@
 
 -   🔭 I’m currently working on [Personal Portfolio Website](https://thekruz.tech)
 
--   🌱 I’m currently learning **Everything😊, but particularly NextJS**
+-   🌱 I’m currently learning **Everything😊, but particularly NodeJS**
 
 -   👨‍💻 Some of my projects are available at [TheKruZ.Tech](https://thekruz.tech/) OR [GitHub Repositories](https://github.com/kruzkasu223?tab=repositories)
 
