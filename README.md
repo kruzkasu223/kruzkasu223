@@ -23,7 +23,7 @@
 
 -   📄 Know about my experiences on [Linkedin](https://linkedin.com/in/kruzkasu223)
 
--   ⚡ Fun Fact **that I don't know any Fun Fact about myself😅**
+-   ⚡ Fun Fact **I don't talk much, I let my work do all the talking**
 
 <br/>
 
