@@ -22,8 +22,9 @@
 -   📫 You can reach me on [Linkedin](https://linkedin.com/in/kruzkasu223) OR [Twitter](https://twitter.com/kruzkasu223)
 
 -   📄 Know about my experiences on [Linkedin](https://linkedin.com/in/kruzkasu223)
-
+<!--
 -   ⚡ Fun Fact **I don't talk much, I let my work do all the talking**
+-->
 
 <br/>
 
