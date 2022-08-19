@@ -13,9 +13,9 @@
 
 -   🔭 I’m currently working on [Personal Portfolio Website](https://thekruz.tech)
 
--   🌱 I’m currently learning **Everything😊, but particularly ThreeJS**
+-   🌱 I’m currently learning **Everything😊, but particularly ThreeJS and Web3 Technologies**
 
--   👨‍💻 Some of my projects are available at [TheKruZ.Tech](https://thekruz.tech/) OR [GitHub Repositories](https://github.com/kruzkasu223?tab=repositories)
+-   👨‍💻 Some of my projects are available at [TheKruZ.Tech](https://thekruz.tech/projects) OR [GitHub Repositories](https://github.com/kruzkasu223?tab=repositories)
 
 -   💬 Ask me about **ReactJS, NextJS and Django**
 
@@ -34,7 +34,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<!-- 
 <a href="https://codepen.io/kruzkasu223" target="blank"><img alt="Dev.to blog" src="https://img.shields.io/badge/codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" ></a>
+-->
 <a href="https://github.com/kruzkasu223" target="blank"><img alt="GitHub" src="https://img.shields.io/badge/github-181717.svg?&style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="https://twitter.com/kruzkasu223" target="blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-1DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/></a>
 <a href="https://linkedin.com/in/kruzkasu223" target="blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
