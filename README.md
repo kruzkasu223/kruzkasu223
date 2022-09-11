@@ -80,6 +80,8 @@
 <img alt="Apollo GraphQL" src="https://img.shields.io/badge/Apollo%20GraphQL-311C87?style=for-the-badge&logo=apollo-graphql&logoColor=white"/>
 <img alt="GSAP" src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white"/>
 <img alt="Three.js" src="https://img.shields.io/badge/Three%2Ejs-000000?style=for-the-badge&logo=three%2Ejs&logoColor=white"/>
+<img alt="Astro" src="https://img.shields.io/badge/astro%20-%23FF5D01?&style=for-the-badge&logo=astro&logoColor=white"/>
+<img alt="Svelte" src="https://img.shields.io/badge/svelte%20-%23FF3E00?&style=for-the-badge&logo=svelte&logoColor=white"/>
 <img alt="jQuery" src="https://img.shields.io/badge/jquery%20-%230769AD?&style=for-the-badge&logo=jquery&logoColor=white"/>
 <img alt="Zustand" src="https://img.shields.io/badge/Zustand%20-%238a584f?&style=for-the-badge&logo=zotero&logoColor=white"/>
 <img alt="Framer Motion" src="https://img.shields.io/badge/framer%20motion%20-ee0099?&style=for-the-badge&logo=framer&logoColor=white"/>
