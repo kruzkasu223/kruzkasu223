@@ -68,6 +68,7 @@
 <p align="left">
 <img alt="ReactJS" src="https://img.shields.io/badge/reactjs%20-%2320232a?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
 <img alt="NextJS" src="https://img.shields.io/badge/nextjs%20-%23000000?&style=for-the-badge&logo=next.js&logoColor=white"/>
+<img alt="SolidJS" src="https://img.shields.io/badge/solidjs%20-%23446b9e?&style=for-the-badge&logo=solid&logoColor=%232C4F7C"/>
 <img alt="Redux" src="https://img.shields.io/badge/redux%20-%23593d88?&style=for-the-badge&logo=redux&logoColor=white"/>
 <img alt="Django" src="https://img.shields.io/badge/django%20-%230C4B33?&style=for-the-badge&logo=django&logoColor=white"/>
 <img alt="GraphQL" src="https://img.shields.io/badge/graphql%20-%23E10098?&style=for-the-badge&logo=graphql&logoColor=white"/>
@@ -78,10 +79,7 @@
 <img alt="SASS" src="https://img.shields.io/badge/SASS%20-hotpink?&style=for-the-badge&logo=SASS&logoColor=white"/>
 <img alt="Prisma" src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=Prisma&logoColor=white"/>
 <img alt="Apollo GraphQL" src="https://img.shields.io/badge/Apollo%20GraphQL-311C87?style=for-the-badge&logo=apollo-graphql&logoColor=white"/>
-<img alt="GSAP" src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white"/>
-<img alt="Three.js" src="https://img.shields.io/badge/Three%2Ejs-000000?style=for-the-badge&logo=three%2Ejs&logoColor=white"/>
 <img alt="Astro" src="https://img.shields.io/badge/astro%20-%23FF5D01?&style=for-the-badge&logo=astro&logoColor=white"/>
-<img alt="Svelte" src="https://img.shields.io/badge/svelte%20-%23FF3E00?&style=for-the-badge&logo=svelte&logoColor=white"/>
 <img alt="jQuery" src="https://img.shields.io/badge/jquery%20-%230769AD?&style=for-the-badge&logo=jquery&logoColor=white"/>
 <img alt="Zustand" src="https://img.shields.io/badge/Zustand%20-%238a584f?&style=for-the-badge&logo=zotero&logoColor=white"/>
 <img alt="Framer Motion" src="https://img.shields.io/badge/framer%20motion%20-ee0099?&style=for-the-badge&logo=framer&logoColor=white"/>
