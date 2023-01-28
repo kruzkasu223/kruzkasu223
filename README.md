@@ -1,31 +1,7 @@
-<img src="https://raw.githubusercontent.com/kruzkasu223/kruzkasu223/main/me.jpg"/>
-
-<h1 align="center">Hey There 👋, I'm Krushang Kasundra aka Kru'Z</h1>
-<h3 align="center">A Computer Engineer, Full-Stack Web Developer, and Learning More...</h3>
-<br/>
-<p align="center"> <a href="https://twitter.com/kruzkasu223" target="_blank"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/kruzkasu223?color=%231DA1F2&label=Follow%20%40kruzkasu223&logo=twitter&style=flat-square"></a> 
-<img src="https://komarev.com/ghpvc/?username=kruzkasu223&label=Profile%20views&color=e0245e&style=flat-square" alt="kruzkasu223" /></p>
-<br/>
-
----
-
-<br/>
-
-- 🔭 I’m currently working on [Personal Portfolio Website](https://kruz.me)
-
-- 🌱 I’m currently learning **Everything😊, but particularly ThreeJS and Web3 Technologies**
-
-- 👨‍💻 Some of my projects are available at [kruz.me](https://kruz.me/projects) OR [GitHub Repositories](https://github.com/kruzkasu223?tab=repositories)
-
-- 💬 Ask me about **ReactJS, NextJS and Django**
-
-- 📫 You can reach me on [Linkedin](https://linkedin.com/in/kruzkasu223) OR [Twitter](https://twitter.com/kruzkasu223)
-
-- 📄 Know about my experiences on [Linkedin](https://linkedin.com/in/kruzkasu223)
-<!--
-- ⚡ Fun Fact **I don't talk much, I let my work do all the talking**
-  -->
-
+<h1 align="center"><a href="https://kruz.me">Kru'Z</a></h1>
+<h2 align="center">Hey There 👋, I'm Krushang Kasundra</h2>
+<h3 align="center">I make stuff appear on the screen by writting some code</h3>
+<h3 align="center">Computer Engineer by Qualification and Frontend Software Engineer by Profession</h3>
 <br/>
 
 ---
@@ -34,13 +10,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<!-- 
-<a href="https://codepen.io/kruzkasu223" target="blank"><img alt="Dev.to blog" src="https://img.shields.io/badge/codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" ></a>
--->
 <a href="https://github.com/kruzkasu223" target="blank"><img alt="GitHub" src="https://img.shields.io/badge/github-181717?&style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="https://twitter.com/kruzkasu223" target="blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-1DA1F2?&style=for-the-badge&logo=Twitter&logoColor=white"/></a>
 <a href="https://linkedin.com/in/kruzkasu223" target="blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-0077B5?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://instagram.com/kruzkasu223" target="blank"><img alt="LinkedIn" src="https://img.shields.io/badge/instagram-E4405F?&style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<!--
+<a href="https://codepen.io/kruzkasu223" target="blank"><img src="https://img.shields.io/badge/codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" ></a>
+-->
 </p>
 <br/>
 
@@ -103,31 +78,14 @@
 
 ---
 
-&nbsp;
+<br/>
 
-<p align="center"><img align="center" src="https://github-profile-trophy.vercel.app/?username=kruzkasu223&column=3&margin-w=6&margin-h=6&no-frame=true&theme=dracula" alt="kruzkasu223" /></p>
-
-&nbsp;
-
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kruzkasu223&layout=compact&langs_count=10&theme=synthwave&title_color=ff6696&text_color=ff4d85&hide_border=true" alt="kruzkasu223" /></p>
-
-&nbsp;
-
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=kruzkasu223&show_icons=true&count_private=true&show_icons=true&theme=synthwave&title_color=ff6696&text_color=ff4d85&icon_color=ff6696&hide_border=true" alt="kruzkasu223" /></p>
-
-&nbsp;
-
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kruzkasu223&theme=synthwave&hide_border=true&ring=de3163&fire=de3163&stroke=de3163&currStreakNum=de3163&dates=de3163&currStreakLabel=de3163&sideNums=de3163&sideLabels=de3163" alt="kruzkasu223" /></p>
+<p align="center"><img align="center" src="https://raw.githubusercontent.com/kruzkasu223/github-stats/master/generated/overview.svg#gh-dark-mode-only" /><img align="center" src="https://raw.githubusercontent.com/kruzkasu223/github-stats/master/generated/languages.svg#gh-dark-mode-only" /></p>
 
 <!--
 credits:
 https://simpleicons.org
 https://Shields.io
-https://github.com/anuraghazra/github-readme-stats
 https://github.com/Ileriayo/markdown-badges
-https://github.com/rahuldkjain/github-profile-readme-generator
-https://github.com/DenverCoder1/github-readme-streak-stats
-https://github.com/ryo-ma/github-profile-trophy
-https://github.com/antonkomarev/github-profile-views-counter
-https://www.youtube.com/watch?v=n6d4KHSKqGk
+https://github.com/jstrieb/github-stats
 -->
