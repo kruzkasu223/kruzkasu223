@@ -8,6 +8,14 @@
 
 <br/>
 
+<p align="center"><img align="center" src="https://raw.githubusercontent.com/kruzkasu223/github-stats/master/generated/overview.svg#gh-dark-mode-only" /><img align="center" src="https://raw.githubusercontent.com/kruzkasu223/github-stats/master/generated/languages.svg#gh-dark-mode-only" /><img align="center" src="https://raw.githubusercontent.com/kruzkasu223/github-stats/master/generated/overview.svg#gh-light-mode-only" /><img align="center" src="https://raw.githubusercontent.com/kruzkasu223/github-stats/master/generated/languages.svg#gh-light-mode-only" /></p>
+
+<br/>
+
+---
+
+<br/>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://github.com/kruzkasu223" target="blank"><img alt="GitHub" src="https://img.shields.io/badge/github-181717?&style=for-the-badge&logo=github&logoColor=white"/></a>
@@ -75,12 +83,6 @@
 <img alt="Vercel" src="https://img.shields.io/badge/Vercel-%23000000?style=for-the-badge&logo=vercel"/>
 </p>
 <br/>
-
----
-
-<br/>
-
-<p align="center"><img align="center" src="https://raw.githubusercontent.com/kruzkasu223/github-stats/master/generated/overview.svg#gh-dark-mode-only" /><img align="center" src="https://raw.githubusercontent.com/kruzkasu223/github-stats/master/generated/languages.svg#gh-dark-mode-only" /><img align="center" src="https://raw.githubusercontent.com/kruzkasu223/github-stats/master/generated/overview.svg#gh-light-mode-only" /><img align="center" src="https://raw.githubusercontent.com/kruzkasu223/github-stats/master/generated/languages.svg#gh-light-mode-only" /></p>
 
 <!--
 credits:
