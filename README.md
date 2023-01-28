@@ -1,7 +1,7 @@
 <h1 align="center"><a href="https://kruz.me">Kru'Z</a></h1>
-<h2 align="center">Hey There 👋, I'm Krushang Kasundra</h2>
-<h3 align="center">I make stuff appear on the screen by writting some code</h3>
-<h3 align="center">Computer Engineer by Qualification and Frontend Software Engineer by Profession</h3>
+<h3 align="center">Hey There 👋, I'm Krushang Kasundra</h3>
+<h4 align="center">I make stuff appear on the screen by writting some code</h4>
+<h4 align="center">Computer Engineer by Qualification and Frontend Software Engineer by Profession</h4>
 <br/>
 
 ---
